@@ -1,6 +1,6 @@
 ## Gabriel Marin
 
-Aspiring SOC Analyst | Cybersecurity Student | Learning Offensive Security  
+Cybersecurity Student | SOC Analyst (Blue Team) | Linux & Infrastructure Security
 📍 Mendoza, Argentina |🔗 | 📧 [Email](gabriel.cyberops@gmail.com)
 
 
