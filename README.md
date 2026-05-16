@@ -6,7 +6,7 @@ Estudiante de Ciberseguridad | Labs de SOC y Blue Team | Seguridad Linux | Wazuh
 
 Soy estudiante de ciberseguridad con formación en Desarrollo de Software, enfocado en operaciones de seguridad (SOC), hardening de sistemas Linux y análisis de logs.
 
-Desarrollo laboratorios personales con herramientas como Wazuh y Active Directory para practicar monitoreo, detección de amenazas y administración segura de infraestructura.
+Desarrollo laboratorios personales con tecnologías como Wazuh y Active Directory para practicar monitoreo, detección de amenazas y administración segura de infraestructura.
 ## 🛠️ Tecnologías que uso
 
 ### 🖥️ Sistemas Operativos
