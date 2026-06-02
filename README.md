@@ -1,4 +1,4 @@
-## Gabriel Marin
+## Gabriel Marin Pais
 
 Estudiante de Ciberseguridad | Blue Team | Active Directory | Linux | Wazuh <br>
 📍 Mendoza, Argentina | 🔗 [Linkedin](https://www.linkedin.com/in/gabriel-cyberops/) | 📧 gabriel.cyberops@gmail.com <br>
