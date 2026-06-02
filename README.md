@@ -1,12 +1,16 @@
 ## Gabriel Marin
 
-Estudiante de Ciberseguridad | Labs de SOC y Blue Team | Seguridad Linux | Wazuh & Active Directory <br>
+Estudiante de Ciberseguridad | Blue Team | Active Directory | Linux | Wazuh <br>
 📍 Mendoza, Argentina | 🔗 [Linkedin](https://www.linkedin.com/in/gabriel-cyberops/) | 📧 gabriel.cyberops@gmail.com <br>
 
 
-Soy estudiante de ciberseguridad con formación en Desarrollo de Software, enfocado en operaciones de seguridad (SOC), hardening de sistemas Linux y análisis de logs.
-
-Desarrollo laboratorios personales con tecnologías como Wazuh y Active Directory para practicar monitoreo, detección de amenazas y administración segura de infraestructura.
+Soy estudiante de ciberseguridad con formación en Desarrollo de Software, enfocado en Blue Team, administración de identidades y seguridad de infraestructura.
+ 
+Desarrollo laboratorios prácticos para adquirir experiencia en tecnologías utilizadas en entornos empresariales, incluyendo Active Directory, Windows Server, Linux, Group Policy, RBAC, PowerShell, Kerberos y monitoreo de seguridad con Wazuh.
+ 
+Actualmente profundizo conocimientos en gestión de identidades y accesos (IAM), operaciones de seguridad (SOC), hardening de sistemas, detección de amenazas y administración de entornos híbridos Windows y Linux.
+ 
+Busco desarrollar experiencia práctica mediante proyectos documentados, resolución de problemas reales y aprendizaje continuo orientado a la seguridad defensiva y la administración segura de infraestructura.
 ## 🛠️ Tecnologías que uso
 
 ### 🖥️ Sistemas Operativos
